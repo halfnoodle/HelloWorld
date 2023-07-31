@@ -20,7 +20,7 @@
         <Label
             Grid.Column="1"
             Grid.Row="1"
-            Content="Hello World"
+            Content="Hello World1"
             FontSize="40"
             HorizontalContentAlignment="Center"
             VerticalContentAlignment="Center"/>
