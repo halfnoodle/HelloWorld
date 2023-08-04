@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{8F8F979C-31F8-496F-852B-16AF02C4021E}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HelloWorldSetup", "..\HelloWorldSetup\HelloWorldSetup.vdproj", "{D660F392-2A28-488E-B10B-279CC3C54633}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,12 @@ Global
 		{8F8F979C-31F8-496F-852B-16AF02C4021E}.Release|ARM64.Build.0 = Release|ARM64
 		{8F8F979C-31F8-496F-852B-16AF02C4021E}.Release|x64.ActiveCfg = Release|x64
 		{8F8F979C-31F8-496F-852B-16AF02C4021E}.Release|x64.Build.0 = Release|x64
+		{D660F392-2A28-488E-B10B-279CC3C54633}.Debug|Any CPU.ActiveCfg = Debug
+		{D660F392-2A28-488E-B10B-279CC3C54633}.Debug|ARM64.ActiveCfg = Debug
+		{D660F392-2A28-488E-B10B-279CC3C54633}.Debug|x64.ActiveCfg = Debug
+		{D660F392-2A28-488E-B10B-279CC3C54633}.Release|Any CPU.ActiveCfg = Release
+		{D660F392-2A28-488E-B10B-279CC3C54633}.Release|ARM64.ActiveCfg = Release
+		{D660F392-2A28-488E-B10B-279CC3C54633}.Release|x64.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
